@@ -1,0 +1,11 @@
+[user]
+	name = Matt Acton
+	email = matt.acton@gmail.com
+[core]
+	editor = vim
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	unstage = reset HEAD --
